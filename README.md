@@ -1,2 +1,2 @@
-# studyNotes
+# Scribble
 Sangkyun's  doodle book :)
